@@ -1,0 +1,40 @@
+@seeds = "79 14 55 13"
+
+@soil = <<-SOIL
+50 98 2
+52 50 48
+SOIL
+
+@fertilizer = <<-FERTILIZER
+0 15 37
+37 52 2
+39 0 15
+FERTILIZER
+
+@water = <<-WATER
+49 53 8
+0 11 42
+42 0 7
+57 7 4
+WATER
+
+@light = <<-LIGHT
+88 18 7
+18 25 70
+LIGHT
+
+@temperature = <<-TEMPERATURE
+45 77 23
+81 45 19
+68 64 13
+TEMPERATURE
+
+@humidity = <<-HUMIDITY
+0 69 1
+1 0 69
+HUMIDITY
+
+@location = <<-LOCATION
+60 56 37
+56 93 4
+LOCATION
